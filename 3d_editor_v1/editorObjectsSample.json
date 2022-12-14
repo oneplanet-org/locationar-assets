@@ -1,0 +1,18 @@
+{
+  objects: [
+    {
+      type: 'glb',
+      file: "https://oneplanet-org.github.io/locationar-assets/3d_editor_v1/sample.glb",
+      scale: 1,
+      position: [-3, 0, 0],
+      rotation: [0, 0, 0],
+    },
+    {
+      type: 'glb',
+      file: "https://oneplanet-org.github.io/locationar-assets/3d_editor_v1/car.glb",
+      scale: 1,
+      position: [3, 0, 0],
+      rotation: [0, 0, 0],
+    },
+  ]
+}
